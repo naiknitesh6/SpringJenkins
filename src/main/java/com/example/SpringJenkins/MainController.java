@@ -11,7 +11,7 @@ public static Logger logger=LoggerFactory.getLogger(MainController.class);
 @GetMapping("/home")
 public String home()
 {logger.info("Welcome to Spring Jenkins project");
-logger.info("Welcome to Spring Jenkins project six"
+logger.info("Welcome to Spring Jenkins project seven"
 		);
 	return "Welcome to Spring Jenkins project";
 }

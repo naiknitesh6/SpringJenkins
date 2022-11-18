@@ -20,6 +20,6 @@ public String home2()
 {logger.info("Welcome to Spring Jenkins project2");
 logger.info("Welcome to Spring Jenkins project second2"
 		);
-	return "Welcome to Spring Jenkins project";
+	return "Welcome to Spring Jenkins project11";
 }
 }
